@@ -18,7 +18,7 @@ and then we execute this bash.sh(./bash.sh) then it will give output as
 3
 
 
-''(Single quotes): This will only store a string as it is nothing more then that. Example-> if we edit the same bash.sh like this
+''(Single quotes): This will only store a string as it is, nothing more then that. Example-> if we edit the same bash.sh like this
 
 
 #!/bin/bash
